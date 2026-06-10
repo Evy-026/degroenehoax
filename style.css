@@ -332,25 +332,6 @@ footer{
     z-index:2;
 }
 
-body{
-
-    font-family:Helvetica, Arial, sans-serif;
-
-    background:
-    linear-gradient(
-        rgba(247,248,244,.92),
-        rgba(247,248,244,.92)
-    ),
-    url("images/hero.png");
-
-    background-size:cover;
-    background-position:center;
-    background-attachment:fixed;
-
-    color:var(--black);
-
-    line-height:1.7;
-}
 
 .story-body{
 
