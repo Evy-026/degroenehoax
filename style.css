@@ -341,7 +341,7 @@ body{
         rgba(247,248,244,.92),
         rgba(247,248,244,.92)
     ),
-    url("images/Hero.png");
+    url("images/hero.png");
 
     background-size:cover;
     background-position:center;
@@ -359,7 +359,7 @@ body{
         rgba(247,248,244,.44),
         rgba(247,248,244,.44)
     ),
-    url("images/Hero.png");
+    url("images/hero.png");
 
     background-size:cover;
     background-position:center;
@@ -381,7 +381,7 @@ body{
         rgba(0,0,0,.2),
         rgba(0,0,0,.2)
     ),
-    url("images/Hero.png");
+    url("images/hero.png");
 
     background-size:cover;
     background-position:center;
